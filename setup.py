@@ -11,7 +11,7 @@ setuptools.setup(
     description="day of the week to number mapper",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/to_add",
+    url="https://github.com/r4VP4/dow_number",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
