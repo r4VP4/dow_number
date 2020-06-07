@@ -1,0 +1,8 @@
+README.md
+setup.py
+dow_number/__init__.py
+dow_number/dow_number.py
+dow_number.egg-info/PKG-INFO
+dow_number.egg-info/SOURCES.txt
+dow_number.egg-info/dependency_links.txt
+dow_number.egg-info/top_level.txt

@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: dow-number
+Version: 0.0.1
+Summary: day of the week to number mapper
+Home-page: https://github.com/to_add
+Author: VvWkQkTKJ
+Author-email: VvWkQkTKJ@protonmail.ch
+License: UNKNOWN
+Description: # dow-to-number
+        
+        The day of the week is coded different in the various systems and code-systems.
+        This is just the beginning, feel free to add more code-systems.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
